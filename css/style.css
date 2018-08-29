@@ -277,9 +277,10 @@ a.expand {
    background-attachment: fixed;
    padding:18px 0px 81px;
   }
-  .subscribe h1 { color: #fff; margin-bottom: 40px; }
+
   .subscribe h1 span { display: block; font-size: 15px; text-transform: uppercase; font-weight: bold; margin-top: 20px; letter-spacing: 1px; }
-  .subscribe input[type=text] { background-color: rgba(79, 80, 84, 0.6); border: solid 1px #fff; padding: 20px; width: 30%; color: #fff; }
+  .subscribe input[type=text] {  border: solid 1px #fff; padding: 8px;  color: #080808;   margin-left: -13px;;
+    margin-top: -17px; }
 .group{
   color: #fff;
       margin-right: 287px;}
